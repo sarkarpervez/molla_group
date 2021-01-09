@@ -10,7 +10,7 @@ $(document).ready(function(){
         margin:10,
         nav:true,
         dots:false,
-        autoplay:false,
+        autoplay:true,
         autoplayTimeout:3000,
         navText: [
             '<i class="fa fa-angle-left" aria-hidden="true"></i>',
@@ -75,7 +75,7 @@ $(document).ready(function(){
         margin:10,
         nav:true,
         dots:false,
-        autoplay:false,
+        autoplay:true,
         autoplayTimeout:3000,
         navText: [
             '<i class="fa fa-angle-left" aria-hidden="true"></i>',
